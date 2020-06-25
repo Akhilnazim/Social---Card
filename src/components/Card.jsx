@@ -10,7 +10,7 @@ function Card({data}) {
                 <div class="col--20 col-lg-20">
                     <div class="card news-card">
                         <CardHeading profPic={data.profPic} time={data.time} profName={data.profName}/>
-                        <img class="card-img-top" src={require('../assets/'+ data.content)} alt="Card image cap"></img>
+                        <img class="card-img-top" src={require('../assets/'+ data.content)} alt="Card cap"></img>
                         <CardContent description={data.description} likes={data.likes} comments={data.comments}/>
                     </div>
                 </div>

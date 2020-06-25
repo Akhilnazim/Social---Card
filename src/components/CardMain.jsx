@@ -3,7 +3,7 @@ import data from './data.json';
 import Card from './Card';
 import CardHead from './CardHead';
 
-var Data = data;
+// var Data = data;
 console.log(data);
 function CardMain() {
     return (

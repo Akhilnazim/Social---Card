@@ -1,5 +1,5 @@
 import React from 'react'
-import FontAwesome from 'react-fontawesome'
+// import FontAwesome from 'react-fontawesome'
 import './SocialCard.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faHeart, faComment } from '@fortawesome/free-solid-svg-icons'
