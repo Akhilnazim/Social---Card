@@ -1,0 +1,8 @@
+[
+    {"id":0,"profName":"Nazim","profPic":"https://mdbootstrap.com/img/Photos/Avatars/img%20(17)-mini.jpg","time":"online","content":"a.jpg","description":"Another great adventure!","likes":200,"comments":100},
+    {"id":0,"profName":"Amal","profPic":"https://mdbootstrap.com/img/Photos/Avatars/img%20(18)-mini.jpg","time":"offline","content":"b.jpg","description":"Ultimte Space Vaccum!","likes":500,"comments":50},
+    {"id":0,"profName":"jack","profPic":"https://mdbootstrap.com/img/Photos/Avatars/img%20(20)-mini.jpg","time":"offline","content":"c.jpg","description":"The perfect Drop!","likes":700,"comments":28},
+    {"id":0,"profName":"Mathew","profPic":"https://mdbootstrap.com/img/Photos/Avatars/img%20(9)-mini.jpg","time":"offline","content":"d.jpg","description":"Cinque Terre National Park","likes":185,"comments":60}
+   
+    
+]

@@ -1,0 +1,43 @@
+
+.card-head{
+    font-size: 55px;
+    line-height: 1;
+    margin-top: 50px;
+    font: 400 100px/1.2 'Merienda One', Helvetica, sans-serif !important;
+    color: rgba(0,0,0,0.7);
+    text-shadow: 3px 3px 3px #fff;
+}
+.card-main{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.comment{
+    border: none !important;
+    border-bottom: 1px solid black !important;
+    padding-bottom: 10px !important;
+}
+.card-body
+{
+    margin-bottom: 10px;
+}
+.social-meta{
+    padding-left: 5px;
+    padding-top: 5px;
+}
+.comment-font{
+    display: inline-block;
+    width: 30%;
+}
+
+.card-body i
+{
+    padding-left: 5px;
+    width:50%;
+    display: inline-block;
+}
+
+.card-body input
+{
+    display: inline-block;
+    width:80%;
+}
